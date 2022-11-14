@@ -1,5 +1,6 @@
 ### Hi there 👋
-I am a product designer and i am currently learning web development 🙂
+🌱 I’m a product designer and I'm currently learning web development.
+
 <!--
 **yhuteemoren/yhuteemoren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
