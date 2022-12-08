@@ -1,6 +1,6 @@
 *  Hi there 👋
 * 🌱 I’m currently learning front-end web development.
-* 🌱 I’m currently learning CSS.
+* 🌱 I’m currently learning HTML & CSS.
 * 👯 I’m looking to callaborate on Open Source projects and raal time projects.
 
 
