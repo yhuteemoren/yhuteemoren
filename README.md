@@ -1,6 +1,6 @@
 *  Hi there 👋
 * 🌱 I’m currently learning front-end web development.
-* 🌱 I’m currently learning HTML, CSS & JavaScript.
+* 🌱 I’m currently learning JavaScript & React.js.
 * 👯 I’m looking to callaborate on Open Source projects and real time projects.
 
 
