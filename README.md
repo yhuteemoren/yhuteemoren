@@ -1,6 +1,6 @@
 *  Hi there 👋
 * 🌱 I’m a Front-end Web Developer.
-* 🌱 I’m currently learning JavaScript & React.js.
+* 🌱 I’m currently learning React.js.
 * 👯 I’m looking to callaborate on Open Source projects and real time projects.
 
 
